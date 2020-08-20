@@ -1,1 +1,10 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/sj199i3etddx7gxf?svg=true)](https://ci.appveyor.com/project/Ailis7/testing1)
+# Images Loader
+
+## Установка
+
+1. Клонировать репозиторий.
+2. В консоли запустить:
+ npm i
+ npm start
+
+По адресу http://localhost:8080/ - будет доступен проект.
