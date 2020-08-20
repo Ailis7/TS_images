@@ -22,6 +22,11 @@
   object-fit: cover;
 }
 
+.image:hover {
+  outline: dotted red;
+  cursor: pointer; 
+}
+
 .show {
   position: absolute;
 }
