@@ -35,10 +35,6 @@ module.exports = {
             requireLast: false
           }
         }],
-      'no-warning-comments': ['warn', {
-          "terms": [''],
-          "location": "start"
-      }]
   },
   settings: {
       '@typescript-eslint/parser': ['.ts'],

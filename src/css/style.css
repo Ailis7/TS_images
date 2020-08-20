@@ -1,5 +1,15 @@
 .main {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
   width: 75wh;
   height: 97vh;
   background-color: rgb(167, 166, 194);
+}
+
+.images {
+  width: 200px;
+  height: 200px;
+  border: 2px solid black;
+  background-color: red;
 }
